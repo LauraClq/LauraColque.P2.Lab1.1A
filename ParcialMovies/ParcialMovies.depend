@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1656511343 source:c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\controller.c
+	"Controller.h"
+
+1656508241 c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\controller.h
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Movies.h"
+	"Parser.h"
+	"Menu.h"
+	"Defines.h"
+
+1656511386 c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\linkedlist.h
+
+1656509004 c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\movies.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Defines.h"
+
+1656509083 c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\defines.h
+
+1656509491 c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\parser.h
+	"LinkedList.h"
+	"Movies.h"
+	"Defines.h"
+
+1656473277 c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"Defines.h"
+	"Input.h"
+
+1656290449 c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\input.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Defines.h"
+
+1656290449 source:c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\input.c
+	"Input.h"
+	<ctype.h>
+
+1656510708 source:c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1656507382 source:c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\menu.c
+	"Menu.h"
+
+1656509083 source:c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\movies.c
+	"Movies.h"
+	<time.h>
+
+1656509534 source:c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\parser.c
+	"Parser.h"
+
+1656509608 source:c:\users\laura\downloads\ejercicios-prog_lab-1-master\parcialmovies\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Menu.h"
+	"Defines.h"
+
